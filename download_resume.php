@@ -1,7 +1,7 @@
 <?php 
 
 	// Path to the file
-	$path = 'resume/NeoMokhele_resume.pdf';
+	$path = 'Resume/NeoMokhele_resume.pdf';
 
 	// This is based on file type of $path, but not always needed    
 	$mm_type = "application/octet-stream";
